@@ -791,7 +791,9 @@ strong{
 }
 
 
-
+#navbar-div a:link{
+	color: var(--blue);
+	}
 
 
 
